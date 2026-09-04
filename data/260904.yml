@@ -7,7 +7,7 @@ about:
   head: ffc8368
   archived: false
   latestVersion: 0.0.1
-  collectedAt: 2026-09-04T19:52:30Z
+  collectedAt: 2026-09-04T20:47:17Z
 timeline:
   created: 2025-11-27
   lastCommit: 2026-01-14
@@ -82,5 +82,43 @@ total:
   openIssue: 9
   commit: 25
 ---
+path: /home/runner/.x-repo/github.com/RanFeng/clipsketch-ai
+collectedAt: 2026-09-04T20:47:18Z
+loc:
+  Tsx:
+    code: 3536
+    comments: 143
+    blanks: 427
+    files: 16
+  Json:
+    code: 2719
+    comments: 0
+    blanks: 0
+    files: 4
+  TypeScript:
+    code: 1743
+    comments: 116
+    blanks: 263
+    files: 10
+  Html:
+    code: 21
+    comments: 0
+    blanks: 0
+    files: 1
+  Dockerfile:
+    code: 9
+    comments: 2
+    blanks: 6
+    files: 1
+  Markdown:
+    code: 0
+    comments: 367
+    blanks: 144
+    files: 4
+total:
+  code: 8080
+  comments: 630
+  blanks: 844
+  files: 36
 ---
 
