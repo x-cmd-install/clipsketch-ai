@@ -1,11 +1,13 @@
 about:
-  description: 将视频瞬间转化为手绘故事 Turn Video Moments into Hand-Drawn Stories
+  description:
+  |
+    将视频瞬间转化为手绘故事 Turn Video Moments into Hand-Drawn Stories
   license: NOASSERTION
   homepage: https://clipsketch-ai.vercel.app
   head: ffc8368
   archived: false
   latestVersion: 0.0.1
-  collectedAt: 2026-09-04T04:54:13Z
+  collectedAt: 2026-09-04T19:52:30Z
 timeline:
   created: 2025-11-27
   lastCommit: 2026-01-14
@@ -16,16 +18,24 @@ popularity:
   fork: 241
   release: 1
   contributor: 3
-  pullRequest: 3
+  pullRequest: 7
   issue: 13
 language:
   TypeScript: 240434
   HTML: 2101
   Dockerfile: 284
-totalLine: 242819
+totalBytes: 242819
 recent:
   last30d:
     since: 2026-08-05
+    release: 0
+    mergedPR: 0
+    openPR: 1
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last60d:
+    since: 2026-07-06
     release: 0
     mergedPR: 0
     openPR: 1
@@ -56,3 +66,21 @@ recent:
     closedIssue: 4
     openIssue: 9
     commit: 21
+  last720d:
+    since: 2024-09-14
+    release: 1
+    mergedPR: 4
+    openPR: 2
+    closedIssue: 4
+    openIssue: 9
+    commit: 25
+total:
+  release: 1
+  mergedPR: 4
+  openPR: 2
+  closedIssue: 4
+  openIssue: 9
+  commit: 25
+---
+---
+
