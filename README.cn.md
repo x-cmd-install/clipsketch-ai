@@ -4,7 +4,7 @@
 
 将视频瞬间转化为手绘故事 Turn Video Moments into Hand-Drawn Stories
 
-![clipsketch-ai](https://repo.x-cmd.io/clipsketch-ai.svg)
+![clipsketch-ai](https://repo.x-cmd.io/clipsketch-ai.svg?lang=zh)
 
 ## 安装
 
@@ -22,11 +22,10 @@ x install clipsketch-ai
 
 - **最新版本**: `0.0.1` (2026-01-13)
 - **最近提交**: 2026-01-14
-- **发布时间**: 2026-01-13T14:09:36Z
 
 ## 流行度
 
-- **Star**: 1,846 · **Fork**: 242 · **开放 issue**: 13 · **贡献者**: 3
+- **Star**: 1,847 · **Fork**: 242 · **开放 issue**: 13 · **贡献者**: 3
 
 ## 累计统计
 
@@ -61,4 +60,4 @@ clipsketch-ai 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/ins
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T03:23:25Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T15:53:26Z._
