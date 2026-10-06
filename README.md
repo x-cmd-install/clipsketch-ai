@@ -37,22 +37,22 @@ Total: **8,028** lines of code across **32** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,857 · **Forks**: 242 · **Open issues**: 14 · **Contributors**: 3
+- **Stars**: 1,858 · **Forks**: 242 · **Open issues**: 13 · **Contributors**: 3
 
 ## Totals (cumulative)
 
-- **Releases**: 1 · **Merged PRs**: 4 · **Open PRs**: 2 · **Closed issues**: 4 · **Open issues**: 10 · **Commits**: 25
+- **Releases**: 1 · **Merged PRs**: 4 · **Open PRs**: 2 · **Closed issues**: 4 · **Open issues**: 9 · **Commits**: 25
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-05 | 0 | 0 | 0 | 0 | 1 | 0 |
-| last60d | 2026-08-06 | 0 | 0 | 1 | 0 | 1 | 0 |
-| 90d | 2026-07-07 | 0 | 0 | 1 | 0 | 1 | 0 |
-| last180d | 2026-04-08 | 0 | 0 | 1 | 0 | 3 | 0 |
-| 360d | 2025-10-10 | 1 | 4 | 2 | 4 | 10 | 21 |
-| last720d | 2024-10-15 | 1 | 4 | 2 | 4 | 10 | 25 |
+| 30d | 2026-09-06 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-07 | 0 | 0 | 1 | 0 | 0 | 0 |
+| 90d | 2026-07-08 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last180d | 2026-04-09 | 0 | 0 | 1 | 0 | 2 | 0 |
+| 360d | 2025-10-11 | 1 | 4 | 2 | 4 | 9 | 21 |
+| last720d | 2024-10-16 | 1 | 4 | 2 | 4 | 9 | 25 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for clipsketch-ai lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261005.yml` · 2026-10-05T04:23:14Z._
+_Snapshot: `data/card/261006.yml` · 2026-10-06T05:10:59Z._
